@@ -25,6 +25,8 @@ buildNumber.properties
 .project
 bin/
 
+sentinel-dashboard/src/main/resources/application.properties
+
 # System related
 *.DS_Store
 Thumbs.db
